@@ -1,4 +1,4 @@
-# Hi there, I'm [Your Name]! 👋
+# Hi there, I'm Buğra Emre Dönmez! 👋
 
 I am a **Computer Engineering** student at Yalova University (2023 - 2027). I am deeply passionate about the "kitchen" of data, focusing my career on **Data Engineering** and **DevOps** infrastructures.
 
