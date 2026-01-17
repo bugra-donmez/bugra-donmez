@@ -36,5 +36,5 @@ I am a **Computer Engineering** student at Yalova University (2023 - 2027). I am
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=GITHUB_USERNAME&show_icons=true&theme=tokyonight)
 
 ## 📫 Connect with me
-* 💼 [LinkedIn](linkedin.com/in/buğraemredönmez/)
+* 💼 [LinkedIn](linkedin.com/in/buğraemredönmez)
 * 📧 [Email](bugra2004emre@gmail.com)
